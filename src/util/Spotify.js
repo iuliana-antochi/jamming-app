@@ -1,6 +1,6 @@
 
 const clientId = "8bff294c93384913ac8614f88e6ff732";
-const redirectUri = "https://fluttering-yarn.surge.sh/";
+const redirectUri = "http://milky-crowd.surge.sh/";
 
 let accessToken;
 
